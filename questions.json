@@ -1,0 +1,15 @@
+[
+ {"case": "Sample_Ravi_vs_Kumar_2022", "question": "What interest was ordered?", "keyword": "9 percent"},
+ {"case": "Sample_Ravi_vs_Kumar_2022", "question": "Who were the witnesses?", "keyword": "Suresh"},
+ {"case": "Sample_State_vs_Sharma_2021", "question": "Why was the accused acquitted?", "keyword": "benefit of doubt"},
+ {"case": "Sample_State_vs_Sharma_2021", "question": "What bail bond amount was set?", "keyword": "Rs. 50,000"},
+ {"case": "Sample_Anita_vs_Rao_2020", "question": "How much monthly maintenance for the daughter?", "keyword": "8,000"},
+ {"case": "Sample_Anita_vs_Rao_2020", "question": "What is the respondent's gross salary?", "keyword": "60,000"},
+ {"case": "Sample_Priya_vs_Sunrise_Builders_2022", "question": "What compensation for mental agony?", "keyword": "1,00,000"},
+ {"case": "Sample_Metro_Textiles_Workers_Union_2019", "question": "How much back wages were ordered?", "keyword": "50 percent"},
+ {"case": "Sample_Gupta_vs_Verma_Cheque_Bounce_2021", "question": "What prison sentence was given?", "keyword": "six months"},
+ {"case": "Sample_Lakshmi_vs_Gowda_Property_2018", "question": "How was the land divided?", "keyword": "2 acres each"},
+ {"case": "Sample_State_vs_Deepak_Nair_2022", "question": "What speed was recorded?", "keyword": "92 km/h"},
+ {"case": "Sample_Fatima_vs_Insure_Well_2023", "question": "Why did the insurer reject the claim?", "keyword": "diabetes"},
+ {"case": "Sample_Mohan_vs_Jain_Eviction_2021", "question": "How much arrears must the tenant pay?", "keyword": "90,000"}
+]
