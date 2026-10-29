@@ -1,0 +1,1 @@
+# legal-case-assistant
